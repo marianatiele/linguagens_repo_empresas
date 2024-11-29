@@ -1,0 +1,10 @@
+Principais APIs
+1. OpenWeatherMap: API que fornece informações climáticas em tempo real de diversas cidades do mundo.
+2. NASA API: API da Agência Espacial Americana que fornece acesso a informações sobre a NASA, seus programas e missões espaciais.
+3. GitHub API: API da plataforma de gerenciamento de código fonte, que permite o acesso aos repositórios e informações de usuários.
+4. Spotify API: API que permite o acesso a informações de músicas, playlists e artistas da plataforma de streaming de música Spotify.
+5. PokeAPI: API que fornece informações sobre os personagens, habilidades, jogos e itens do universo Pokémon.
+
+
+
+Token git: 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
