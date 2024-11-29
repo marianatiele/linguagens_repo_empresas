@@ -1,3 +1,6 @@
 venv
 linguagens_resq.ipynb
 Principais APIs.txt
+*.txt
+*.ipynb
+*venv
