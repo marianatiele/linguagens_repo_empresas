@@ -1,6 +1,7 @@
-venv
-linguagens_resq.ipynb
-Principais APIs.txt
+# Ignorar arquivos sensíveis
+*.env
 *.txt
-*.ipynb
-*venv
+*.pyc
+__pycache__/
+venv/
+
